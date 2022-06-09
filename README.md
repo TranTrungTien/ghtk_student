@@ -1,1 +1,1 @@
-Video test có tên là "Test.webm", với xlsx mẫu e để trong folder server tên là "Student.xlsx" ạ. Mong anh xem và chỉ ra sai xót của em ạ.E cảm ơn
+Project e làm bằng reactjs và nodejs và một số lib liên quan được lưu trong mongodb cloud. E có test trước và quay video , Video có tên là "Test.webm", với xlsx mẫu e để trong folder server tên là "Student.xlsx" ạ. Mong anh chị xem và chỉ ra sai xót của em ạ.E cảm ơn
