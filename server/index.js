@@ -5,8 +5,7 @@ const mongoose = require("mongoose");
 
 const DBConnect = () => {
   return new Promise((resolve, reject) => {
-    mongoose.connect(
-      "mongodb+srv://trantrungtien:Matkhau12345@cluster0.mlapa.mongodb.net/students_ghtk?retryWrites=true&w=majority",
+    mongoose.connect("secret key !!!!!!!!",
       { useNewUrlParser: true, useUnifiedTopology: true },
       (error) => {
         if (error) {
